@@ -19,3 +19,4 @@
 
 4. *Resources:*
 	1. [Saliency Filters(CVPR 2012)](http://www.philkr.net/papers/2012-06-01-cvpr/2012-06-01-cvpr.pdf)
+	2. [Our Final presentation](https://github.com/UditSinghParihar/saliencyFiltering/blob/master/results/end_sem/saliency_filtering_final_ppt.pdf)
